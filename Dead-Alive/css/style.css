@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+html {
+    background: url("/img/old-paper.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Rye', cursive;
+    font-size: 10px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 500px;
+    margin: 2rem auto 0 auto;
+}
+
+.dead-or-alive {
+    font-size: 2rem;
+    margin: auto;
+}
+
+.jamie {
+    font-size: 4rem;
+    margin: 1rem 0 0 0;
+}
+
+.money {
+    font-size: 3.5rem;
+    margin: 2.5rem 0 0 0;
+}
+
+.notorius {
+    font-size: 1.5rem;
+    margin: auto;
+}
+
+.wanted {
+    font-size: 6rem;
+    letter-spacing: 4px;
+    margin: auto;
+}
